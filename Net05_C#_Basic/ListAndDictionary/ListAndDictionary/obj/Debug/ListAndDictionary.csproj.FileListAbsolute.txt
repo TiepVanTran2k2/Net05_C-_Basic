@@ -1,0 +1,7 @@
+C:\Users\PhayTV\source\repos\ListAndDictionary\ListAndDictionary\bin\Debug\ListAndDictionary.exe.config
+C:\Users\PhayTV\source\repos\ListAndDictionary\ListAndDictionary\bin\Debug\ListAndDictionary.exe
+C:\Users\PhayTV\source\repos\ListAndDictionary\ListAndDictionary\bin\Debug\ListAndDictionary.pdb
+C:\Users\PhayTV\source\repos\ListAndDictionary\ListAndDictionary\obj\Debug\ListAndDictionary.csproj.AssemblyReference.cache
+C:\Users\PhayTV\source\repos\ListAndDictionary\ListAndDictionary\obj\Debug\ListAndDictionary.csproj.CoreCompileInputs.cache
+C:\Users\PhayTV\source\repos\ListAndDictionary\ListAndDictionary\obj\Debug\ListAndDictionary.exe
+C:\Users\PhayTV\source\repos\ListAndDictionary\ListAndDictionary\obj\Debug\ListAndDictionary.pdb

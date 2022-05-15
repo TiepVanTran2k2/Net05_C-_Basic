@@ -1,0 +1,7 @@
+C:\Users\PhayTV\source\repos\Polymophism\Polymophism\bin\Debug\Polymophism.exe.config
+C:\Users\PhayTV\source\repos\Polymophism\Polymophism\bin\Debug\Polymophism.exe
+C:\Users\PhayTV\source\repos\Polymophism\Polymophism\bin\Debug\Polymophism.pdb
+C:\Users\PhayTV\source\repos\Polymophism\Polymophism\obj\Debug\Polymophism.csproj.AssemblyReference.cache
+C:\Users\PhayTV\source\repos\Polymophism\Polymophism\obj\Debug\Polymophism.csproj.CoreCompileInputs.cache
+C:\Users\PhayTV\source\repos\Polymophism\Polymophism\obj\Debug\Polymophism.exe
+C:\Users\PhayTV\source\repos\Polymophism\Polymophism\obj\Debug\Polymophism.pdb

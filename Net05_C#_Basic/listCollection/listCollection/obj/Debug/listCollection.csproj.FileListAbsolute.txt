@@ -1,0 +1,7 @@
+C:\Users\PhayTV\source\repos\listCollection\listCollection\bin\Debug\listCollection.exe.config
+C:\Users\PhayTV\source\repos\listCollection\listCollection\bin\Debug\listCollection.exe
+C:\Users\PhayTV\source\repos\listCollection\listCollection\bin\Debug\listCollection.pdb
+C:\Users\PhayTV\source\repos\listCollection\listCollection\obj\Debug\listCollection.csproj.AssemblyReference.cache
+C:\Users\PhayTV\source\repos\listCollection\listCollection\obj\Debug\listCollection.csproj.CoreCompileInputs.cache
+C:\Users\PhayTV\source\repos\listCollection\listCollection\obj\Debug\listCollection.exe
+C:\Users\PhayTV\source\repos\listCollection\listCollection\obj\Debug\listCollection.pdb

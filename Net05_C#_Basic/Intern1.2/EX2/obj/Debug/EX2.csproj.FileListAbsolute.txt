@@ -1,0 +1,6 @@
+C:\Users\PhayTV\source\repos\Intern1.2\EX2\bin\Debug\EX2.exe.config
+C:\Users\PhayTV\source\repos\Intern1.2\EX2\bin\Debug\EX2.exe
+C:\Users\PhayTV\source\repos\Intern1.2\EX2\bin\Debug\EX2.pdb
+C:\Users\PhayTV\source\repos\Intern1.2\EX2\obj\Debug\EX2.csproj.CoreCompileInputs.cache
+C:\Users\PhayTV\source\repos\Intern1.2\EX2\obj\Debug\EX2.exe
+C:\Users\PhayTV\source\repos\Intern1.2\EX2\obj\Debug\EX2.pdb
