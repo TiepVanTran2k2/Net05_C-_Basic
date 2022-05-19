@@ -1,0 +1,7 @@
+C:\Users\PhayTV\Documents\[net05]_TiepTV02_Final\NPL.Practice.T02.Problem03\bin\Debug\NPL.Practice.T02.Problem03.exe.config
+C:\Users\PhayTV\Documents\[net05]_TiepTV02_Final\NPL.Practice.T02.Problem03\bin\Debug\NPL.Practice.T02.Problem03.exe
+C:\Users\PhayTV\Documents\[net05]_TiepTV02_Final\NPL.Practice.T02.Problem03\bin\Debug\NPL.Practice.T02.Problem03.pdb
+C:\Users\PhayTV\Documents\[net05]_TiepTV02_Final\NPL.Practice.T02.Problem03\obj\Debug\NPL.Practice.T02.Problem03.csproj.AssemblyReference.cache
+C:\Users\PhayTV\Documents\[net05]_TiepTV02_Final\NPL.Practice.T02.Problem03\obj\Debug\NPL.Practice.T02.Problem03.csproj.CoreCompileInputs.cache
+C:\Users\PhayTV\Documents\[net05]_TiepTV02_Final\NPL.Practice.T02.Problem03\obj\Debug\NPL.Practice.T02.Problem03.exe
+C:\Users\PhayTV\Documents\[net05]_TiepTV02_Final\NPL.Practice.T02.Problem03\obj\Debug\NPL.Practice.T02.Problem03.pdb

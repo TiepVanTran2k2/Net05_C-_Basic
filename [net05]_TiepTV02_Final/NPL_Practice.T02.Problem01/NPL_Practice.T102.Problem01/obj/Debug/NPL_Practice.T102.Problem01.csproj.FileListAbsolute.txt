@@ -1,0 +1,7 @@
+C:\Users\PhayTV\Documents\Zalo Received Files\[Net05]_TiepTV2_PracticeFinal\NPL_Practice.T102.Problem01\NPL_Practice.T102.Problem01\bin\Debug\NPL_Practice.T102.Problem01.exe.config
+C:\Users\PhayTV\Documents\Zalo Received Files\[Net05]_TiepTV2_PracticeFinal\NPL_Practice.T102.Problem01\NPL_Practice.T102.Problem01\bin\Debug\NPL_Practice.T102.Problem01.exe
+C:\Users\PhayTV\Documents\Zalo Received Files\[Net05]_TiepTV2_PracticeFinal\NPL_Practice.T102.Problem01\NPL_Practice.T102.Problem01\bin\Debug\NPL_Practice.T102.Problem01.pdb
+C:\Users\PhayTV\Documents\Zalo Received Files\[Net05]_TiepTV2_PracticeFinal\NPL_Practice.T102.Problem01\NPL_Practice.T102.Problem01\obj\Debug\NPL_Practice.T102.Problem01.csproj.AssemblyReference.cache
+C:\Users\PhayTV\Documents\Zalo Received Files\[Net05]_TiepTV2_PracticeFinal\NPL_Practice.T102.Problem01\NPL_Practice.T102.Problem01\obj\Debug\NPL_Practice.T102.Problem01.csproj.CoreCompileInputs.cache
+C:\Users\PhayTV\Documents\Zalo Received Files\[Net05]_TiepTV2_PracticeFinal\NPL_Practice.T102.Problem01\NPL_Practice.T102.Problem01\obj\Debug\NPL_Practice.T102.Problem01.exe
+C:\Users\PhayTV\Documents\Zalo Received Files\[Net05]_TiepTV2_PracticeFinal\NPL_Practice.T102.Problem01\NPL_Practice.T102.Problem01\obj\Debug\NPL_Practice.T102.Problem01.pdb

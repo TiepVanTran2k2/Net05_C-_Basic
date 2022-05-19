@@ -1,0 +1,14 @@
+C:\Users\PhayTV\Documents\Zalo Received Files\[Net05]_TiepTV2_PracticeFinal\NPL_Practice.T102.Problem02\NPL_Practice.T102.Problem02\bin\Debug\NPL_Practice.T102.Problem02.exe.config
+C:\Users\PhayTV\Documents\Zalo Received Files\[Net05]_TiepTV2_PracticeFinal\NPL_Practice.T102.Problem02\NPL_Practice.T102.Problem02\bin\Debug\NPL_Practice.T102.Problem02.exe
+C:\Users\PhayTV\Documents\Zalo Received Files\[Net05]_TiepTV2_PracticeFinal\NPL_Practice.T102.Problem02\NPL_Practice.T102.Problem02\bin\Debug\NPL_Practice.T102.Problem02.pdb
+C:\Users\PhayTV\Documents\Zalo Received Files\[Net05]_TiepTV2_PracticeFinal\NPL_Practice.T102.Problem02\NPL_Practice.T102.Problem02\obj\Debug\NPL_Practice.T102.Problem02.csproj.AssemblyReference.cache
+C:\Users\PhayTV\Documents\Zalo Received Files\[Net05]_TiepTV2_PracticeFinal\NPL_Practice.T102.Problem02\NPL_Practice.T102.Problem02\obj\Debug\NPL_Practice.T102.Problem02.csproj.CoreCompileInputs.cache
+C:\Users\PhayTV\Documents\Zalo Received Files\[Net05]_TiepTV2_PracticeFinal\NPL_Practice.T102.Problem02\NPL_Practice.T102.Problem02\obj\Debug\NPL_Practice.T102.Problem02.exe
+C:\Users\PhayTV\Documents\Zalo Received Files\[Net05]_TiepTV2_PracticeFinal\NPL_Practice.T102.Problem02\NPL_Practice.T102.Problem02\obj\Debug\NPL_Practice.T102.Problem02.pdb
+C:\Users\TranVanTiep\Downloads\[net05]_TiepTV02_Final\NPL_Practice.T02.Problem02\NPL_Practice.T102.Problem02\bin\Debug\NPL_Practice.T102.Problem02.exe.config
+C:\Users\TranVanTiep\Downloads\[net05]_TiepTV02_Final\NPL_Practice.T02.Problem02\NPL_Practice.T102.Problem02\bin\Debug\NPL_Practice.T102.Problem02.exe
+C:\Users\TranVanTiep\Downloads\[net05]_TiepTV02_Final\NPL_Practice.T02.Problem02\NPL_Practice.T102.Problem02\bin\Debug\NPL_Practice.T102.Problem02.pdb
+C:\Users\TranVanTiep\Downloads\[net05]_TiepTV02_Final\NPL_Practice.T02.Problem02\NPL_Practice.T102.Problem02\obj\Debug\NPL_Practice.T102.Problem02.csprojAssemblyReference.cache
+C:\Users\TranVanTiep\Downloads\[net05]_TiepTV02_Final\NPL_Practice.T02.Problem02\NPL_Practice.T102.Problem02\obj\Debug\NPL_Practice.T102.Problem02.csproj.CoreCompileInputs.cache
+C:\Users\TranVanTiep\Downloads\[net05]_TiepTV02_Final\NPL_Practice.T02.Problem02\NPL_Practice.T102.Problem02\obj\Debug\NPL_Practice.T102.Problem02.exe
+C:\Users\TranVanTiep\Downloads\[net05]_TiepTV02_Final\NPL_Practice.T02.Problem02\NPL_Practice.T102.Problem02\obj\Debug\NPL_Practice.T102.Problem02.pdb
